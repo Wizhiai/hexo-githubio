@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>hexo use</title>
+      <link href="/2020/04/21/hexo-use/"/>
+      <url>/2020/04/21/hexo-use/</url>
+      
+        <content type="html"><![CDATA[<p>1:创建新文章：hexo new post “article title”</p><p>编写完markdown文件后，根目录下输入<code>hexo g</code>生成静态网页，然后输入<code>hexo s</code>可以本地预览效果，最后输入<code>hexo d</code>上传到github上。这时打开你的github.io主页就能看到发布的文章啦。</p><h1 id="绑定域名"><a href="#绑定域名" class="headerlink" title="绑定域名"></a>绑定域名</h1>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>十大经典排序算法整理汇总（附代码）</title>
       <link href="/2020/02/16/sort-algorithms/"/>
       <url>/2020/02/16/sort-algorithms/</url>

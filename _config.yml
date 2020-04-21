@@ -140,6 +140,6 @@ live2d:
 
 baidu_url_submit:
   count: 100
-  host: godweiyang.com
-  token:  # 填写你的百度统计token，不写也没事
+  host: bolg.91youzhi.com
+  token: d98399f732238a2e095257cb36f76084 # 填写你的百度统计token，不写也没事
   path: baidu_urls.txt

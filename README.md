@@ -1,22 +1,8 @@
-个人备份bolg用
+# hexo-matery-modified
+My personal modified hexo matery theme with some bugs fixed, modified from [hexo-theme-matery](https://github.com/blinkfox/hexo-theme-matery)
 
+# Demo
+[https://godweiyang.com](https://godweiyang.com)
 
-
-
-
-需要换机器或者重置时：
-
-将此库clone下去，
-
-然后将博客内容clone。
-
-
-
-
-
-![截屏2020-04-20 下午8.49.48](README.assets/%E6%88%AA%E5%B1%8F2020-04-20%20%E4%B8%8B%E5%8D%888.49.48.png)
-
-
-
-按照此目录结构，进行替换即可。deploy_git
-
+# Usage
+[https://godweiyang.com/2018/04/13/hexo-blog/](https://godweiyang.com/2018/04/13/hexo-blog/)
