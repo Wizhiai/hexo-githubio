@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wizhiai.github.io/"/>
-  <updated>2020-04-21T01:40:30.948Z</updated>
+  <updated>2020-04-28T10:49:35.340Z</updated>
   <id>https://wizhiai.github.io/</id>
   
   <author>
@@ -15,6 +15,165 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo添加图片，网页首页正常浏览，结合typora，实现复制图片，自动插入</title>
+    <link href="https://wizhiai.github.io/2020/04/28/hexo-tian-jia-tu-pian-wang-ye-shou-ye-zheng-chang-liu-lan-jie-he-typora-shi-xian-fu-zhi-tu-pian-zi-dong-cha-ru/"/>
+    <id>https://wizhiai.github.io/2020/04/28/hexo-tian-jia-tu-pian-wang-ye-shou-ye-zheng-chang-liu-lan-jie-he-typora-shi-xian-fu-zhi-tu-pian-zi-dong-cha-ru/</id>
+    <published>2020-04-28T10:12:23.000Z</published>
+    <updated>2020-04-28T10:49:35.340Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在根目录下配置文件_config.yml 中有
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>解决google搜索引擎被劫持：Unable to change default search engine in Chrome with search6188182-a.akamaihd.net&#39; </title>
+    <link href="https://wizhiai.github.io/2020/04/28/jie-jue-google-sou-suo-yin-qing-bei-jie-chi-unable-to-change-default-search-engine-in-chrome-with-search6188182-a-akamaihd-net/"/>
+    <id>https://wizhiai.github.io/2020/04/28/jie-jue-google-sou-suo-yin-qing-bei-jie-chi-unable-to-change-default-search-engine-in-chrome-with-search6188182-a-akamaihd-net/</id>
+    <published>2020-04-28T09:15:36.000Z</published>
+    <updated>2020-04-28T10:29:18.519Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;如题：&lt;img
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>旋转数组的三种方法</title>
+    <link href="https://wizhiai.github.io/2020/04/26/xuan-zhuan-shu-zu-de-san-chong-fang-fa/"/>
+    <id>https://wizhiai.github.io/2020/04/26/xuan-zhuan-shu-zu-de-san-chong-fang-fa/</id>
+    <published>2020-04-26T15:02:31.000Z</published>
+    <updated>2020-04-27T13:36:14.536Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;方法 1：暴力&lt;br&gt;最简单的方法是旋转 k 次，每次将数组旋转 1 个元素。&lt;/p&gt;
+&lt;p&gt;Java&lt;br&gt;&lt;code&gt;public class Solution {&lt;/code&gt;&lt;br&gt;    &lt;code&gt;public void rotate(int[] nums,
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>KVO进阶</title>
+    <link href="https://wizhiai.github.io/2020/04/24/kvo/"/>
+    <id>https://wizhiai.github.io/2020/04/24/kvo/</id>
+    <published>2020-04-24T07:11:58.000Z</published>
+    <updated>2020-04-24T07:42:07.825Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;//wizhiai.github.io/2020/04/24/kvo/171a512df9918245.jpg&quot; alt=&quot;171a512df9918245 &quot;&gt;&lt;/p&gt;
+&lt;p&gt;KVO的流程图&lt;/p&gt;
+&lt;h1 id=&quot;一-KVO的定义&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>click the area around the prompt view to hide the promot view</title>
+    <link href="https://wizhiai.github.io/2020/04/23/click-the-area-around-the-prompt-view-to-hide-the-promot-view/"/>
+    <id>https://wizhiai.github.io/2020/04/23/click-the-area-around-the-prompt-view-to-hide-the-promot-view/</id>
+    <published>2020-04-23T09:14:30.000Z</published>
+    <updated>2020-04-23T09:28:49.179Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;// 点击提示框视图以外的其他地方时隐藏弹框&lt;br&gt;-(void)touchesBegan:(NSSet&amp;lt;UITouch &lt;em&gt;&amp;gt; &lt;/em&gt;)touches withEvent:(UIEvent
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>学习资料链接</title>
+    <link href="https://wizhiai.github.io/2020/04/21/xue-xi-zi-liao-lian-jie/"/>
+    <id>https://wizhiai.github.io/2020/04/21/xue-xi-zi-liao-lian-jie/</id>
+    <published>2020-04-21T07:22:37.000Z</published>
+    <updated>2020-04-21T07:28:17.292Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://c.biancheng.net/c/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;C语言学习&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://c.biancheng.net/cplus/&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>github私有库开放</title>
+    <link href="https://wizhiai.github.io/2020/04/21/github-si-you-ku-kai-fa/"/>
+    <id>https://wizhiai.github.io/2020/04/21/github-si-you-ku-kai-fa/</id>
+    <published>2020-04-21T06:52:05.000Z</published>
+    <updated>2020-04-21T06:52:59.669Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;GitHub-is-now-free-for-teams-The-GitHub-Blog&quot;&gt;&lt;a href=&quot;#GitHub-is-now-free-for-teams-The-GitHub-Blog&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>hexo use</title>
@@ -31,6 +190,51 @@
         
           &lt;p&gt;1:创建新文章：hexo new post “article title”&lt;/p&gt;
 &lt;p&gt;编写完markdown文件后，根目录下输入&lt;code&gt;hexo g&lt;/code&gt;生成静态网页，然后输入&lt;code&gt;hexo
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://wizhiai.github.io/2020/04/15/1.jiang-debug-information-format-gai-wei-dwarf/"/>
+    <id>https://wizhiai.github.io/2020/04/15/1.jiang-debug-information-format-gai-wei-dwarf/</id>
+    <published>2020-04-15T09:08:38.360Z</published>
+    <updated>2020-04-15T09:08:38.360Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;随着Xcode的更新和工程项目代码的增加，Xcode在build的时候会显得越来越慢，尤其在内存低的OSX电脑上，查看网上一些大神给出的建议，本人亲测后发现确有实效，在此总结下&lt;/p&gt;
+&lt;h3
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://wizhiai.github.io/2020/04/14/ios-qi-dong-ye-launchscreen-she-zhi-quan-ping-chu-li-qi-dong-ye-xian-shi-zai-zhuang-tai-lan-de-xia-fang-wen-ti/"/>
+    <id>https://wizhiai.github.io/2020/04/14/ios-qi-dong-ye-launchscreen-she-zhi-quan-ping-chu-li-qi-dong-ye-xian-shi-zai-zhuang-tai-lan-de-xia-fang-wen-ti/</id>
+    <published>2020-04-14T07:23:57.406Z</published>
+    <updated>2020-04-14T09:05:14.950Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;ios启动页LaunchScreen设置全屏，处理启动页显示在状态栏的下方问题&quot;&gt;&lt;a href=&quot;#ios启动页LaunchScreen设置全屏，处理启动页显示在状态栏的下方问题&quot; class=&quot;headerlink&quot;
         
       
     

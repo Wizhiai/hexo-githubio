@@ -1,0 +1,25 @@
+# ios启动页LaunchScreen设置全屏，处理启动页显示在状态栏的下方问题
+
+1：添加一个launchscreen文件
+
+拖动一个imageview到launchscreen
+
+设置imageviewcontmode为aspect to fill
+
+![截屏2020-04-14 下午3.25.35](ios%E5%90%AF%E5%8A%A8%E9%A1%B5LaunchScreen%E8%AE%BE%E7%BD%AE%E5%85%A8%E5%B1%8F%EF%BC%8C%E5%A4%84%E7%90%86%E5%90%AF%E5%8A%A8%E9%A1%B5%E6%98%BE%E7%A4%BA%E5%9C%A8%E7%8A%B6%E6%80%81%E6%A0%8F%E7%9A%84%E4%B8%8B%E6%96%B9%E9%97%AE%E9%A2%98.assets/%E6%88%AA%E5%B1%8F2020-04-14%20%E4%B8%8B%E5%8D%883.25.35.png)
+
+设置约束距离四边均为0，且space to superview
+
+![截屏2020-04-14 下午3.25.46](ios%E5%90%AF%E5%8A%A8%E9%A1%B5LaunchScreen%E8%AE%BE%E7%BD%AE%E5%85%A8%E5%B1%8F%EF%BC%8C%E5%A4%84%E7%90%86%E5%90%AF%E5%8A%A8%E9%A1%B5%E6%98%BE%E7%A4%BA%E5%9C%A8%E7%8A%B6%E6%80%81%E6%A0%8F%E7%9A%84%E4%B8%8B%E6%96%B9%E9%97%AE%E9%A2%98.assets/%E6%88%AA%E5%B1%8F2020-04-14%20%E4%B8%8B%E5%8D%883.25.46.png)
+
+![截屏2020-04-14 下午3.25.49](ios%E5%90%AF%E5%8A%A8%E9%A1%B5LaunchScreen%E8%AE%BE%E7%BD%AE%E5%85%A8%E5%B1%8F%EF%BC%8C%E5%A4%84%E7%90%86%E5%90%AF%E5%8A%A8%E9%A1%B5%E6%98%BE%E7%A4%BA%E5%9C%A8%E7%8A%B6%E6%80%81%E6%A0%8F%E7%9A%84%E4%B8%8B%E6%96%B9%E9%97%AE%E9%A2%98.assets/%E6%88%AA%E5%B1%8F2020-04-14%20%E4%B8%8B%E5%8D%883.25.49.png)
+
+基本就可以了
+
+
+
+
+
+参考：
+
+https://www.jianshu.com/p/f8c9e6069d09

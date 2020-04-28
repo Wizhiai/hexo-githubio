@@ -18,7 +18,7 @@ layout: "contact"
 * **头像：**你的头像地址
 
 例如我的博客友链，大家可以加到自己博客里哦：
-* **名称：**godweiyang
-* **地址：**https://godweiyang.com
-* **简介：**公众号【算法码上来】，分享深度学习与NLP算法
+* **名称：**hulijie
+* **地址：**https://wizhiai.github.io
+* **简介：**github
 * **头像：**https://godweiyang.com/medias/avatars/avatar.jpg
