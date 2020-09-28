@@ -1,5 +1,5 @@
 ---
-title: hexo添加图片，网页首页正常浏览，结合typora，实现复制图片，自动插入
+	title: hexo添加图片，网页首页正常浏览，结合typora，实现复制图片，自动插入
 top: false
 cover: false
 toc: true
